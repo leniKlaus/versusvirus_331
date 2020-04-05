@@ -22,6 +22,12 @@ We validated this approach through a customer survey and are sure that it works.
 
 So thanks for listening  
 
-<b>.. and don't forget to talk about this with your family.  </b>
+... and don't forget to **talk about this with your family**.
+... and **join us tomorrow by setting up your own advance directive**.
 
-<b>.. and join us tomorrow by setting up your own advance directive.</b>
+## Files
+- [surveys](surveys)  
+  Contains the results of our two surveys in CSV format
+  [doctors](surveys/survey1_DA.csv) and [general public](surveys/survey2.csv)
+- [media](media)  
+  [Miro board video](media/miro_board.mp4)
