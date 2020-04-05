@@ -21,8 +21,10 @@ To solve this problem in the short term, we propose a campaign to increase the o
 We validated this approach through a customer survey and are sure that it works.
 
 So thanks for listening  
-.. and don't forget to talk about this with your family.  
-.. and join us tomorrow by setting up your own advance directive.
+
+<b>... and don't forget to talk about this with your family.  </b>
+
+<b>... and join us tomorrow by setting up your own advance directive.</b>
 
 ## Files
 - [surveys](surveys)  
