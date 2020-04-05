@@ -23,4 +23,5 @@ We validated this approach through a customer survey and are sure that it works.
 So thanks for listening  
 
 <b>.. and don't forget to talk about this with your family.  </b>
+
 <b>.. and join us tomorrow by setting up your own advance directive.</b>
