@@ -29,5 +29,5 @@ So thanks for listening
   Contains the results of our two surveys in CSV format
   [doctors](surveys/survey1_DA.csv) and [general public](surveys/survey2.csv)
 - [media](media)  
-  [Pitch video](media/PitchVideo_Team331_Challenge104.mp4)  
+  [Pitch video](media/PitchVideo_Team331_Challenge104.mp4) or on [YouTube](https://youtu.be/kreK3Qfh7-k)   
   [Miro board video](media/miro_board.mp4)  
